@@ -15,9 +15,6 @@ status = 200
 [dev]
 framework = "#static"
 
-[[plugins]]
-package = "@netlify/plugin-nextjs"
-
 [functions]
 
 [functions.test-handler]
